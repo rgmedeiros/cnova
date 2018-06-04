@@ -1,0 +1,12 @@
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\obj\Debug\ConsumindoAPI_windowsForm.csprojAssemblyReference.cache
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\obj\Debug\ConsumindoAPI_windowsForm.frmAmigo.resources
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\obj\Debug\ConsumindoAPI_windowsForm.Properties.Resources.resources
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\obj\Debug\ConsumindoAPI_windowsForm.csproj.GenerateResource.cache
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\obj\Debug\ConsumindoAPI_windowsForm.csproj.CoreCompileInputs.cache
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\bin\Debug\ConsumindoAPI_windowsForm.exe.config
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\bin\Debug\ConsumindoAPI_windowsForm.exe
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\bin\Debug\ConsumindoAPI_windowsForm.pdb
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\bin\Debug\Newtonsoft.Json.dll
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\obj\Debug\ConsumindoAPI_windowsForm.csproj.CopyComplete
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\obj\Debug\ConsumindoAPI_windowsForm.exe
+C:\Renato\Visual Studio\Testes Trabalho\CNova\ConsumindoAPI_windowsForm\ConsumindoAPI_windowsForm\obj\Debug\ConsumindoAPI_windowsForm.pdb
